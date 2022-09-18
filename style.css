@@ -82,3 +82,8 @@ subtitle {
   font-weight: 600;
   color: linen;
 }
+
+.sbt-logo {
+  max-width: 250px;
+  min-width: 100px;
+}
