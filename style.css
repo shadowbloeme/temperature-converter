@@ -4,6 +4,14 @@ body{
   background-color: #102044; 
 }
 
+p {
+  color: linen;
+  font-family: Josefin Sans;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
 h1 {
   padding-bottom: 0.5rem;
   font-family: 'Share Tech Mono';
@@ -20,18 +28,21 @@ input[type=number] {
   background-color: #92F590;
   font-size: 2.5rem;
   font-family: 'Share Tech Mono';
+  font-weight: 800;
 }
 
 #input-fahrenheit{
   background-color: #8487F6;
   font-size: 2.5rem;
   font-family: 'Share Tech Mono';
+  font-weight: 800;
 }
 
 #input-kelvin{
   background-color: #F491F6;
   font-size: 2.5rem;
   font-family: 'Share Tech Mono';
+  font-weight: 800;
 }
 
 .form-padding {
