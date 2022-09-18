@@ -1,0 +1,73 @@
+body{
+  margin-top: 60px;
+  text-align:center;
+  background-color: #102044; 
+}
+
+h1 {
+  padding-bottom: 0.5rem;
+  font-family: 'Share Tech Mono';
+  color: linen;
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+input[type=number] {
+  cursor: pointer;
+}
+
+#input-celsius{
+  background-color: #92F590;
+  font-size: 2.5rem;
+  font-family: 'Share Tech Mono';
+}
+
+#input-fahrenheit{
+  background-color: #8487F6;
+  font-size: 2.5rem;
+  font-family: 'Share Tech Mono';
+}
+
+#input-kelvin{
+  background-color: #F491F6;
+  font-size: 2.5rem;
+  font-family: 'Share Tech Mono';
+}
+
+.form-padding {
+  padding: 2rem 1rem;
+}
+
+::-webkit-input-placeholder {
+  color: #102044 !important;
+}
+::-moz-placeholder {
+  color: #102044 !important;
+}
+:-ms-input-placeholder {
+  color: #102044 !important;
+}
+:-moz-placeholder {
+  color: #102044 !important;
+}
+
+footer{
+  padding-top: 1.5rem;
+  font-size: 0.7rem;
+  line-height: 0.2rem;
+  text-align:center;
+}
+
+.icons{
+  max-width: 25px;
+  height: auto;
+}
+
+subtitle {
+  text-align: center;
+  font-family: 'Josefin Sans';
+  font-size: 1.6rem;
+  font-style: italic;
+  font-weight: 600;
+  color: linen;
+}
